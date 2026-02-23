@@ -35,6 +35,10 @@ jobs:
     - name: Update README with latest results
       run: |
         python scripts/update_readme.py
+    - name: List files before commit
+      run: |
+        ls -la reports/
+        git status
     
     - name: Commit and push if changed
       run: |
