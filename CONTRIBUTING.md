@@ -12,7 +12,7 @@
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/pli-alpha-generator.git
+git clone https://github.com/harshi1111/pli-alpha-generator.git
 cd pli-alpha-generator
 
 # Create virtual environment
