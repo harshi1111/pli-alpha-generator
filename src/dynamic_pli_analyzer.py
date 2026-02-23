@@ -390,6 +390,7 @@ def main():
         json.dump(json_data, f, indent=2)
     
     print(f"{Colors.GREEN}✅ Analysis saved to {report_file}{Colors.END}")
+    print(f"{Colors.GREEN}✅ File exists: {report_file.exists()}{Colors.END}")
     
     print(f"\n{Colors.GREEN}{Colors.BOLD}✅ Analysis Complete!{Colors.END}")
     print(f"{Colors.YELLOW}📋 Next iteration: Feed latest news back to Gemini for updated insights{Colors.END}")
