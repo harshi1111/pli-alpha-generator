@@ -1,0 +1,43 @@
+name: Auto-Update README
+
+on:
+  schedule:
+    # Run every Monday at 9:30 AM IST
+    - cron: '0 4 * * 1'  # 9:30 AM IST = 4:00 UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run PLI Analysis
+      env:
+        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+      run: |
+        python src/dynamic_pli_analyzer.py
+    
+    - name: Update README with latest results
+      run: |
+        python scripts/update_readme.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add README.md data/track_record.json reports/
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update README with latest analysis [skip ci]"
+        git push
