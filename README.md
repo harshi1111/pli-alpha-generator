@@ -69,22 +69,25 @@ Risk/Reward: 6.96:1
 
 ## 📈 Track Record
 
-<!-- TRACK_RECORD_START -->
 | Date | Pick | Entry | Target | Status |
 |------|------|-------|--------|--------|
 | 2026-02-23 | TCIEXP | ₹554 | ₹848 | Active |
-<!-- TRACK_RECORD_END -->
 
-## 🎯 Current Top Pick
 
-<!-- CURRENT_PICK_START -->
-**Loading latest analysis...**
-<!-- CURRENT_PICK_END -->
+
+
+## 🎯 Current Top Pick (February 23, 2026)
+
+**TCI Express Limited (TCIEXP)**
+- Price: ₹554.20
+- Buy Trigger: ₹487.56
+- Target: ₹848.00
+- Asymmetry Score: 7/10
 
 ## 📊 Latest Analysis
 
 <!-- TIMESTAMP_START -->
-Last Updated: February 23, 2026 at 16:34 IST
+Last Updated: February 23, 2026 at 11:59 IST
 <!-- TIMESTAMP_END -->
 
 ## 🚀  Test It Locally

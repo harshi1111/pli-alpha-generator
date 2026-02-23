@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "date": "2026-02-23",
+    "company": "TCI Express Limited",
+    "symbol": "TCIEXP",
+    "price": 554.2,
+    "target": 848.0,
+    "status": "Active"
+  }
+]
