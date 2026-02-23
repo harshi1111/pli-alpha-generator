@@ -15,5 +15,3 @@ mypy>=1.0.0
 # Monitoring
 schedule>=1.2.0  # For scheduling runs
 
-# Optional: For database storage
-sqlite3  # Built-in with Python
