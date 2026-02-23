@@ -17,6 +17,7 @@ class ReadmeUpdater:
     def __init__(self):
         self.readme_path = Path(__file__).parent.parent / "README.md"
         self.reports_dir = Path(__file__).parent.parent / "reports"
+        self.reports_dir.mkdir(exist_ok=True)
         self.track_record = []
         
     def load_latest_analysis(self):
