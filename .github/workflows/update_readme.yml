@@ -4,7 +4,9 @@ on:
   schedule:
     # Run every Monday at 9:30 AM IST
     - cron: '0 4 * * 1'  # 9:30 AM IST = 4:00 UTC
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
+  push:
+    branches: [ master ]# Allow manual trigger
 
 jobs:
   update-readme:
