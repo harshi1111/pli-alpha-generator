@@ -39,6 +39,8 @@ jobs:
       run: |
         ls -la reports/
         git status
+        git add -f reports/*.json
+        git status
     
     - name: Commit and push if changed
       run: |
