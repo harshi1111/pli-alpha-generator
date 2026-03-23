@@ -63,6 +63,7 @@ python src/dynamic_pli_analyzer.py
 | 2026-03-02 | TCIEXP | ₹530 | ₹848 | Active |
 | 2026-03-09 | TCIEXP | ₹513 | ₹848 | Active |
 | 2026-03-16 | TCIEXP | ₹466 | ₹848 | Active |
+| 2026-03-23 | TCIEXP | ₹469 | ₹848 | Active |
 
 
 
@@ -77,7 +78,7 @@ python src/dynamic_pli_analyzer.py
 ## Latest Analysis
 
 <!-- TIMESTAMP_START -->
-Last Updated: March 16, 2026 at 05:47 IST
+Last Updated: March 23, 2026 at 05:28 IST
 <!-- TIMESTAMP_END -->
 
 ## Contributing
