@@ -62,5 +62,13 @@
     "price": 5099.2,
     "target": 7225.0,
     "status": "Active"
+  },
+  {
+    "date": "2026-04-20",
+    "company": "Syrma SGS Technology Limited",
+    "symbol": "SYRMA",
+    "price": 977.9,
+    "target": 993.0,
+    "status": "Active"
   }
 ]
