@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-27T06:25:45.476403",
+  "top_company": {
+    "name": "Syrma SGS Technology Limited",
+    "symbol": "SYRMA",
+    "current_price": 981.85,
+    "fifty_two_week_low": 446.8,
+    "fifty_two_week_high": 1032.0,
+    "asymmetry_score": 6,
+    "asymmetry_reasons": [
+      "Expert catalyst: \u20b940,000 Cr component PLI boost, 45% sales growth...",
+      "High stealth (Rank 1): MF holdings 4%\u219210%, retail cautious"
+    ],
+    "risk_flags": [
+      "\u26a0\ufe0f Geopolitical: "
+    ]
+  },
+  "all_companies": [
+    {
+      "symbol": "SYRMA",
+      "name": "Syrma SGS Technology Limited",
+      "price": 981.85,
+      "score": 6
+    },
+    {
+      "symbol": "TCIEXP",
+      "name": "TCI Express Limited",
+      "price": 518.95,
+      "score": 5
+    },
+    {
+      "symbol": "BLUEDART",
+      "name": "Blue Dart Express Limited",
+      "price": 5417.0,
+      "score": 2
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Limited",
+      "price": 11143.5,
+      "score": 1
+    },
+    {
+      "symbol": "AMBER",
+      "name": "Amber Enterprises India Limited",
+      "price": 8183.5,
+      "score": -3
+    }
+  ]
+}
