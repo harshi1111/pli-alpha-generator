@@ -59,7 +59,6 @@ python src/dynamic_pli_analyzer.py
 
 | Date | Pick | Entry | Target | Status |
 |------|------|-------|--------|--------|
-| 2026-03-02 | TCIEXP | ₹530 | ₹848 | Active |
 | 2026-03-09 | TCIEXP | ₹513 | ₹848 | Active |
 | 2026-03-16 | TCIEXP | ₹466 | ₹848 | Active |
 | 2026-03-23 | TCIEXP | ₹469 | ₹848 | Active |
@@ -69,6 +68,7 @@ python src/dynamic_pli_analyzer.py
 | 2026-04-20 | SYRMA | ₹978 | ₹993 | Active |
 | 2026-04-27 | SYRMA | ₹982 | ₹1032 | Active |
 | 2026-05-04 | TCIEXP | ₹534 | ₹848 | Active |
+| 2026-05-11 | SYRMA | ₹1129 | ₹1145 | Active |
 
 
 
@@ -83,7 +83,7 @@ python src/dynamic_pli_analyzer.py
 ## Latest Analysis
 
 <!-- TIMESTAMP_START -->
-Last Updated: May 04, 2026 at 06:36 IST
+Last Updated: May 11, 2026 at 07:37 IST
 <!-- TIMESTAMP_END -->
 
 ## Contributing
