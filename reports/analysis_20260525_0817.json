@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-05-25T08:17:51.484344",
+  "top_company": {
+    "name": "TCI Express Limited",
+    "symbol": "TCIEXP",
+    "current_price": 511.4,
+    "fifty_two_week_low": 447.55,
+    "fifty_two_week_high": 848.0,
+    "asymmetry_score": 7,
+    "asymmetry_reasons": [
+      "Down -5.9% in 3 months",
+      "High stealth (Rank 2): B2B logistics proxy, under-the-radar buying"
+    ],
+    "risk_flags": []
+  },
+  "all_companies": [
+    {
+      "symbol": "TCIEXP",
+      "name": "TCI Express Limited",
+      "price": 511.4,
+      "score": 7
+    },
+    {
+      "symbol": "BLUEDART",
+      "name": "Blue Dart Express Limited",
+      "price": 4899.0,
+      "score": 7
+    },
+    {
+      "symbol": "SYRMA",
+      "name": "Syrma SGS Technology Limited",
+      "price": 1066.0,
+      "score": 6
+    },
+    {
+      "symbol": "AMBER",
+      "name": "Amber Enterprises India Limited",
+      "price": 7464.0,
+      "score": 3
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Limited",
+      "price": 11817.0,
+      "score": 1
+    }
+  ]
+}

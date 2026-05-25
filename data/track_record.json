@@ -102,5 +102,13 @@
     "price": 503.9,
     "target": 848.0,
     "status": "Active"
+  },
+  {
+    "date": "2026-05-25",
+    "company": "TCI Express Limited",
+    "symbol": "TCIEXP",
+    "price": 511.4,
+    "target": 848.0,
+    "status": "Active"
   }
 ]
