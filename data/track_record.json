@@ -110,5 +110,13 @@
     "price": 511.4,
     "target": 848.0,
     "status": "Active"
+  },
+  {
+    "date": "2026-06-01",
+    "company": "Blue Dart Express Limited",
+    "symbol": "BLUEDART",
+    "price": 4728.8,
+    "target": 7080.0,
+    "status": "Active"
   }
 ]
