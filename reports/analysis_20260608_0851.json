@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-06-08T08:51:22.252256",
+  "top_company": {
+    "name": "Blue Dart Express Limited",
+    "symbol": "BLUEDART",
+    "current_price": 4649.2,
+    "fifty_two_week_low": 4628.5,
+    "fifty_two_week_high": 7080.0,
+    "asymmetry_score": 7,
+    "asymmetry_reasons": [
+      "Near 52-week low (\u20b94628.50)",
+      "Down -12.3% in 3 months",
+      "Moderate stealth (Rank 3)"
+    ],
+    "risk_flags": []
+  },
+  "all_companies": [
+    {
+      "symbol": "BLUEDART",
+      "name": "Blue Dart Express Limited",
+      "price": 4649.2,
+      "score": 7
+    },
+    {
+      "symbol": "SYRMA",
+      "name": "Syrma SGS Technology Limited",
+      "price": 1200.3,
+      "score": 6
+    },
+    {
+      "symbol": "TCIEXP",
+      "name": "TCI Express Limited",
+      "price": 523.35,
+      "score": 5
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Limited",
+      "price": 11444.0,
+      "score": 1
+    },
+    {
+      "symbol": "AMBER",
+      "name": "Amber Enterprises India Limited",
+      "price": 7698.5,
+      "score": -3
+    }
+  ]
+}
