@@ -59,7 +59,6 @@ python src/dynamic_pli_analyzer.py
 
 | Date | Pick | Entry | Target | Status |
 |------|------|-------|--------|--------|
-| 2026-06-29 | SYRMA | ₹1364 | ₹1518 | Active |
 | 2026-07-06 | SYRMA | ₹1402 | ₹1518 | Active |
 | 2026-07-13 | SYRMA | ₹1432 | ₹1518 | Active |
 | 2026-07-20 | BLUEDART | ₹4899 | ₹7036 | Active |
@@ -69,6 +68,7 @@ python src/dynamic_pli_analyzer.py
 | 2026-08-17 | SYRMA | ₹1497 | ₹1543 | Active |
 | 2026-08-24 | SYRMA | ₹1454 | ₹1543 | Active |
 | 2026-08-31 | SYRMA | ₹1437 | ₹1543 | Active |
+| 2026-09-07 | SYRMA | ₹1618 | ₹1626 | Active |
 
 
 
@@ -83,7 +83,7 @@ python src/dynamic_pli_analyzer.py
 ## Latest Analysis
 
 <!-- TIMESTAMP_START -->
-Last Updated: August 31, 2026 at 10:27 IST
+Last Updated: September 07, 2026 at 08:52 IST
 <!-- TIMESTAMP_END -->
 
 ## Contributing
